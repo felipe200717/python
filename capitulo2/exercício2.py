@@ -2,7 +2,7 @@ numero=int(input( "digite um numero de 5 digitos"))
 
 
 
-digitol numero // 10000
+digito1 numero // 10000
 
 
 
